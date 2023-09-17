@@ -1,0 +1,14 @@
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\bin\Debug\net7.0\prime_numbers_Csharp.exe
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\bin\Debug\net7.0\prime_numbers_Csharp.deps.json
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\bin\Debug\net7.0\prime_numbers_Csharp.runtimeconfig.json
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\bin\Debug\net7.0\prime_numbers_Csharp.dll
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\bin\Debug\net7.0\prime_numbers_Csharp.pdb
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\prime_numbers_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\prime_numbers_Csharp.AssemblyInfoInputs.cache
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\prime_numbers_Csharp.AssemblyInfo.cs
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\prime_numbers_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\prime_numbers_Csharp.dll
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\refint\prime_numbers_Csharp.dll
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\prime_numbers_Csharp.pdb
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\prime_numbers_Csharp.genruntimeconfig.cache
+C:\Users\30699\Documents\GitHub\prime_numbers_Csharp\obj\Debug\net7.0\ref\prime_numbers_Csharp.dll
